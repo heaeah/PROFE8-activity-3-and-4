@@ -1,4 +1,4 @@
-# TrackMate
+# Fitness Class Reservation 
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
